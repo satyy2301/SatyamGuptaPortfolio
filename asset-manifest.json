@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/SatyamGuptaPortfolio/static/css/main.5b00a3fa.css",
+    "main.js": "/SatyamGuptaPortfolio/static/js/main.ee4d77ed.js",
+    "static/js/415.4d6acbeb.chunk.js": "/SatyamGuptaPortfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/SatyamGuptaPortfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/leaf.jpeg": "/SatyamGuptaPortfolio/static/media/leaf.ae462a4d7c626a2cec74.jpeg",
+    "static/media/logo.png": "/SatyamGuptaPortfolio/static/media/logo.6723466585da0032f6cf.png",
+    "static/media/chatify.jpeg": "/SatyamGuptaPortfolio/static/media/chatify.bf1a67c3aed660e3d1a5.jpeg",
+    "static/media/home-main.svg": "/SatyamGuptaPortfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/SatyamGuptaPortfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Soumyajit_Behera-BIT_MESRA.pdf": "/SatyamGuptaPortfolio/static/media/Soumyajit_Behera-BIT_MESRA.dbde49a2e9d8b66ac9cd.pdf",
+    "static/media/suicide.jpg": "/SatyamGuptaPortfolio/static/media/suicide.e4b35d8d71fe37173662.jpg",
+    "static/media/codeEditor.jpeg": "/SatyamGuptaPortfolio/static/media/codeEditor.f730883a493b9bbd9d35.jpeg",
+    "static/media/blog.jpeg": "/SatyamGuptaPortfolio/static/media/blog.e4303af78b538a73cb08.jpeg",
+    "static/media/home-bg.jpg": "/SatyamGuptaPortfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/SatyamGuptaPortfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/SatyamGuptaPortfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/SatyamGuptaPortfolio/index.html",
+    "main.5b00a3fa.css.map": "/SatyamGuptaPortfolio/static/css/main.5b00a3fa.css.map",
+    "main.ee4d77ed.js.map": "/SatyamGuptaPortfolio/static/js/main.ee4d77ed.js.map",
+    "415.4d6acbeb.chunk.js.map": "/SatyamGuptaPortfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/SatyamGuptaPortfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b00a3fa.css",
+    "static/js/main.ee4d77ed.js"
+  ]
+}
